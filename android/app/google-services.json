@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "395406048453",
+    "firebase_url": "https://flash-chat-2dd78.firebaseio.com",
+    "project_id": "flash-chat-2dd78",
+    "storage_bucket": "flash-chat-2dd78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395406048453:android:b768b42b67ad4257d404ac",
+        "android_client_info": {
+          "package_name": "co.ylcharan.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395406048453-vkbeig1slv4h1m5fd542d7dgcrk0nn8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJTDJ1qrTF1R8zu6smhhPucpuG0qdJ9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395406048453-vkbeig1slv4h1m5fd542d7dgcrk0nn8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395406048453:android:16ec2f2cffc6e916d404ac",
+        "android_client_info": {
+          "package_name": "com.yvikas.codex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395406048453-6ngtfusrikiqacqqdb5jj3e4dv48ej1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yvikas.codex",
+            "certificate_hash": "aa6e812b6c53a0a1959d6be8f020105df3d100c5"
+          }
+        },
+        {
+          "client_id": "395406048453-vkbeig1slv4h1m5fd542d7dgcrk0nn8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgJTDJ1qrTF1R8zu6smhhPucpuG0qdJ9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395406048453-vkbeig1slv4h1m5fd542d7dgcrk0nn8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
